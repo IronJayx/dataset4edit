@@ -51,23 +51,30 @@ This approach is more time consuming but has the benefit of having real-life sam
 
 
 ## Good examples
-![Good product image](https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/good_samples/sideboard/product.png)
-![Good scene image](https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/good_samples/sideboard/scene.png)
-
+<div style="display: flex; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/good_samples/sideboard/product.png" alt="Good product image" width="45%">
+    <img src="https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/good_samples/sideboard/scene.png" alt="Good scene image" width="45%">
+</div>
 
 ## Bad examples
 
 ### Several product instances
-![Bad product image](https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/several_product_instances/product.webp)
-![Bad scene image](https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/several_product_instances/scene.webp)
+<div style="display: flex; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/several_product_instances/product.webp" alt="Bad product image" width="45%">
+    <img src="https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/several_product_instances/scene.webp" alt="Bad scene image" width="45%">
+</div>
 
 ### Too much rotation
-![Bad product image](https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/too_much_rotation/product.webp)
-![Bad scene image](https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/too_much_rotation/scene.webp)
+<div style="display: flex; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/too_much_rotation/product.webp" alt="Bad product image" width="45%">
+    <img src="https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/too_much_rotation/scene.webp" alt="Bad scene image" width="45%">
+</div>
 
 ### Product covers too much of the scene
-![Bad product image](https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/product_covers_too_much_of_the_scene/product.webp)
-![Bad scene image](https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/product_covers_too_much_of_the_scene/scene.webp)
+<div style="display: flex; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/product_covers_too_much_of_the_scene/product.webp" alt="Bad product image" width="45%">
+    <img src="https://raw.githubusercontent.com/IronJayx/dataset4edit/main/data/bad_samples/product_covers_too_much_of_the_scene/scene.webp" alt="Bad scene image" width="45%">
+</div>
 
 
 
